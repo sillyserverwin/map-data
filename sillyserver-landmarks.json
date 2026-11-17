@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Hartland",
+    "size": "label-large",
+    "coordinates": [-570, 310],
+    "type": "settlement",
+    "thumbnail": false,
+    "image": false,
+    "description": "The first major settlement of the world.",
+    "builder": "Multiple builders"
+  },
+  {
+    "name": "Old Town",
+    "size": "label-medium",
+    "coordinates": [-439, 189],
+    "type": "settlement",
+    "thumbnail": false,
+    "image": false,
+    "description": "This historic district of Hartland is known for its density and architecture.",
+    "builder": "Multiple builders"
+  },
+  {
+    "name": "Downtown",
+    "size": "label-medium",
+    "coordinates": [-622, 450],
+    "type": "settlement",
+    "thumbnail": false,
+    "image": false,
+    "description": "This historic district of Hartland is known for its density and architecture.",
+    "builder": "Multiple builders"
+  },
+  {
+    "name": "Barad Dûr",
+    "size": "label-small",
+    "coordinates": [-766, 118],
+    "type": "building",
+    "thumbnail": "/img/minecraft/map/thumbnail/baraddur.webp",
+    "image": false,
+    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "builder": "palight"
+  },
+  {
+    "name": "St. John's Bridge",
+    "size": "label-small",
+    "coordinates": [-693, 276],
+    "type": "building",
+    "thumbnail": "/img/minecraft/map/thumbnail/stjohns.webp",
+    "image": false,
+    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "builder": "plqnty"
+  },
+  {
+    "name": "Bee Dome",
+    "size": "label-small",
+    "coordinates": [-518, 66],
+    "type": "building",
+    "thumbnail": "/img/minecraft/map/thumbnail/beedome.webp",
+    "image": false,
+    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "builder": "luminah122"
+  },
+  {
+    "name": "Community Greenhouse",
+    "size": "label-small",
+    "coordinates": [-499, 178],
+    "type": "building",
+    "thumbnail": false,
+    "image": false,
+    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "builder": "plqnty"
+  },
+  {
+    "name": "Clock Tower",
+    "size": "label-small",
+    "coordinates": [-551, 168],
+    "type": "building",
+    "thumbnail": "/img/minecraft/map/thumbnail/clocktower.webp",
+    "image": false,
+    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "builder": "plqnty"
+  },
+  {
+    "name": "Enmieas Central Bank",
+    "size": "label-small",
+    "coordinates": [-553, 245],
+    "type": "building",
+    "thumbnail": false,
+    "image": false,
+    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "builder": "Richard_Enmieas"
+  },
+  {
+    "name": "Breshan",
+    "size": "label-large",
+    "coordinates": [34, -244],
+    "type": "settlement",
+    "thumbnail": false,
+    "image": false,
+    "description": "The first major settlement of the world.",
+    "builder": "Multiple builders"
+  },
+  {
+    "name": "Costco",
+    "size": "label-small",
+    "coordinates": [-207, -252],
+    "type": "building",
+    "thumbnail": false,
+    "image": false,
+    "description": "The first major settlement of the world.",
+    "builder": "plqnty"
+  },
+  {
+    "name": "Hartland Transit Center",
+    "size": "label-small",
+    "coordinates": [-321, 93],
+    "type": "building",
+    "thumbnail": false,
+    "image": false,
+    "description": "The first major settlement of the world.",
+    "builder": "Eye_vy, Jabberhyte"
+  },
+  {
+    "name": "Erskine",
+    "size": "label-large",
+    "coordinates": [1024, -285],
+    "type": "settlement",
+    "thumbnail": false,
+    "image": false,
+    "description": "An unincorperated settlement.",
+    "builder": "Richard_Enmieas"
+  },
+  {
+    "name": "City of Varese",
+    "size": "label-large",
+    "coordinates": [3420, -1312],
+    "type": "settlement",
+    "thumbnail": false,
+    "image": false,
+    "description": "",
+    "builder": "Multiple builders"
+  }
+]
