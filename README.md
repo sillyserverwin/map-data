@@ -2,6 +2,8 @@
 Map landmark data for the sillyserver map webpage. [www.sillyserver.win/minecraft/map](https://www.sillyserver.win/minecraft/map)
 # Data Structure
 All the data is stored in JSON format. Thumbnail images should be 256px by 256px in .webp format with a file size less than 20kb. 
+# Usage
+Data can be accessed by downloading the .json file from this repository, or from [https://data.sillyserver.win/sillyserver-landmarks.json](https://data.sillyserver.win/sillyserver-landmarks.json)
 # Required fields
 ## name
 ```String```
