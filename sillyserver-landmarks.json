@@ -13,7 +13,7 @@
     "name": "Old Town",
     "size": "label-medium",
     "coordinates": [-439, 189],
-    "type": "settlement",
+    "type": "district",
     "thumbnail": false,
     "image": false,
     "description": "This historic district of Hartland is known for its density and architecture.",
@@ -23,7 +23,7 @@
     "name": "Downtown",
     "size": "label-medium",
     "coordinates": [-622, 450],
-    "type": "settlement",
+    "type": "district",
     "thumbnail": false,
     "image": false,
     "description": "This contemporary district of Hartland represents the economic center of the city. The tallest towers and biggest ambitions can be found here.",
@@ -66,7 +66,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "TBD",
+    "description": "Built to supply the snowy region with the ability to farm, the Old Town garden is a unique piece of Hartland history.",
     "builder": ["plqnty"]
   },
   {
@@ -76,7 +76,7 @@
     "type": "building",
     "thumbnail": "/img/minecraft/map/thumbnail/clocktower.webp",
     "image": false,
-    "description": "TBD",
+    "description": "The Old Town clock tower was built to orient people to various cardinal directions.",
     "builder": ["plqnty"]
   },
   {
@@ -86,7 +86,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "TBD",
+    "description": "The bank building was started by businessman and politician Richard Enmieas. Currently, the abandoned shell of the building sits abandoned.",
     "builder": ["Richard_Enmieas"]
   },
   {
@@ -96,7 +96,7 @@
     "type": "settlement",
     "thumbnail": false,
     "image": false,
-    "description": "TBD",
+    "description": "Originally a defensive compound, the suburb of Breshan grew into the second largest settlement in the world.",
     "builder": ["Multiple builders"]
   },
   {
@@ -106,7 +106,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "TBD",
+    "description": "This big box store was built to facilitate trade at an industrial scale once the bank system was put in place. However, with the bank project stalled, the store remains empty and abandoned.",
     "builder": ["plqnty"]
   },
   {
@@ -116,7 +116,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "TBD",
+    "description": "Built by IMI, the Hartland Transit Center connects the nether roof transit with the overworld ice boat lines as well as a large ghast port.",
     "builder": ["Eye_vy", "Jabberhyte"]
   },
   {
@@ -136,7 +136,7 @@
     "type": "settlement",
     "thumbnail": false,
     "image": false,
-    "description": "TBD",
+    "description": "This city is the furthest populated area of its size from Hartland. Varese stands adjacent to one of the largest oceans in the world.",
     "builder": ["Multiple builders"]
   }
 ]
