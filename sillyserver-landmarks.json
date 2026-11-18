@@ -26,7 +26,7 @@
     "type": "settlement",
     "thumbnail": false,
     "image": false,
-    "description": "This historic district of Hartland is known for its density and architecture.",
+    "description": "This contemporary district of Hartland represents the economic center of the city. The tallest towers and biggest ambitions can be found here.",
     "builder": ["Multiple builders"]
   },
   {
@@ -40,13 +40,13 @@
     "builder": ["palight"]
   },
   {
-    "name": "St. John's Bridge",
+    "name": "St. John’s Bridge",
     "size": "label-small",
     "coordinates": [-693, 276],
     "type": "building",
     "thumbnail": "/img/minecraft/map/thumbnail/stjohns.webp",
     "image": false,
-    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "description": "Based on Portland’s famous St. John’s Bridge, the Hartland St. John’s Bridge connects downtown Hartland to the Netro hub.",
     "builder": ["plqnty"]
   },
   {
@@ -56,7 +56,7 @@
     "type": "building",
     "thumbnail": "/img/minecraft/map/thumbnail/beedome.webp",
     "image": false,
-    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "description": "This early build brings warmth into Hartland with its massive glass dome. Inside the dome, bees are hard at work tending to this lush garden.",
     "builder": ["luminah122"]
   },
   {
@@ -66,7 +66,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "description": "TBD",
     "builder": ["plqnty"]
   },
   {
@@ -76,7 +76,7 @@
     "type": "building",
     "thumbnail": "/img/minecraft/map/thumbnail/clocktower.webp",
     "image": false,
-    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "description": "TBD",
     "builder": ["plqnty"]
   },
   {
@@ -86,7 +86,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
+    "description": "TBD",
     "builder": ["Richard_Enmieas"]
   },
   {
@@ -96,7 +96,7 @@
     "type": "settlement",
     "thumbnail": false,
     "image": false,
-    "description": "The first major settlement of the world.",
+    "description": "TBD",
     "builder": ["Multiple builders"]
   },
   {
@@ -106,7 +106,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "The first major settlement of the world.",
+    "description": "TBD",
     "builder": ["plqnty"]
   },
   {
@@ -116,7 +116,7 @@
     "type": "building",
     "thumbnail": false,
     "image": false,
-    "description": "The first major settlement of the world.",
+    "description": "TBD",
     "builder": ["Eye_vy", "Jabberhyte"]
   },
   {
@@ -126,7 +126,7 @@
     "type": "settlement",
     "thumbnail": false,
     "image": false,
-    "description": "An unincorperated settlement.",
+    "description": "This unincorporated settlement was started by the CEO of Enemies Central Bank. This settlement found itself the subject of controversy after disallowing new buildings within its borders.",
     "builder": ["Richard_Enmieas"]
   },
   {
@@ -136,7 +136,7 @@
     "type": "settlement",
     "thumbnail": false,
     "image": false,
-    "description": "",
+    "description": "TBD",
     "builder": ["Multiple builders"]
   }
 ]
