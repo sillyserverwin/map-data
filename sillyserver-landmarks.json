@@ -5,9 +5,9 @@
     "coordinates": [-570, 310],
     "type": "settlement",
     "thumbnail": false,
-    "image": false,
+    "image": "/img/minecraft/hartland.webp",
     "description": "The first major settlement of the world.",
-    "builder": "Multiple builders"
+    "builder": ["Multiple builders"]
   },
   {
     "name": "Old Town",
@@ -17,7 +17,7 @@
     "thumbnail": false,
     "image": false,
     "description": "This historic district of Hartland is known for its density and architecture.",
-    "builder": "Multiple builders"
+    "builder": ["Multiple builders"]
   },
   {
     "name": "Downtown",
@@ -27,7 +27,7 @@
     "thumbnail": false,
     "image": false,
     "description": "This historic district of Hartland is known for its density and architecture.",
-    "builder": "Multiple builders"
+    "builder": ["Multiple builders"]
   },
   {
     "name": "Barad Dûr",
@@ -37,7 +37,7 @@
     "thumbnail": "/img/minecraft/map/thumbnail/baraddur.webp",
     "image": false,
     "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
-    "builder": "palight"
+    "builder": ["palight"]
   },
   {
     "name": "St. John's Bridge",
@@ -47,7 +47,7 @@
     "thumbnail": "/img/minecraft/map/thumbnail/stjohns.webp",
     "image": false,
     "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
-    "builder": "plqnty"
+    "builder": ["plqnty"]
   },
   {
     "name": "Bee Dome",
@@ -57,7 +57,7 @@
     "thumbnail": "/img/minecraft/map/thumbnail/beedome.webp",
     "image": false,
     "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
-    "builder": "luminah122"
+    "builder": ["luminah122"]
   },
   {
     "name": "Community Greenhouse",
@@ -67,7 +67,7 @@
     "thumbnail": false,
     "image": false,
     "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
-    "builder": "plqnty"
+    "builder": ["plqnty"]
   },
   {
     "name": "Clock Tower",
@@ -77,7 +77,7 @@
     "thumbnail": "/img/minecraft/map/thumbnail/clocktower.webp",
     "image": false,
     "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
-    "builder": "plqnty"
+    "builder": ["plqnty"]
   },
   {
     "name": "Enmieas Central Bank",
@@ -87,7 +87,7 @@
     "thumbnail": false,
     "image": false,
     "description": "This historic Hartland tower has been retrofitted as a hub for the Netro project.",
-    "builder": "Richard_Enmieas"
+    "builder": ["Richard_Enmieas"]
   },
   {
     "name": "Breshan",
@@ -97,7 +97,7 @@
     "thumbnail": false,
     "image": false,
     "description": "The first major settlement of the world.",
-    "builder": "Multiple builders"
+    "builder": ["Multiple builders"]
   },
   {
     "name": "Costco",
@@ -107,7 +107,7 @@
     "thumbnail": false,
     "image": false,
     "description": "The first major settlement of the world.",
-    "builder": "plqnty"
+    "builder": ["plqnty"]
   },
   {
     "name": "Hartland Transit Center",
@@ -117,7 +117,7 @@
     "thumbnail": false,
     "image": false,
     "description": "The first major settlement of the world.",
-    "builder": "Eye_vy, Jabberhyte"
+    "builder": ["Eye_vy", "Jabberhyte"]
   },
   {
     "name": "Erskine",
@@ -127,7 +127,7 @@
     "thumbnail": false,
     "image": false,
     "description": "An unincorperated settlement.",
-    "builder": "Richard_Enmieas"
+    "builder": ["Richard_Enmieas"]
   },
   {
     "name": "City of Varese",
@@ -137,6 +137,6 @@
     "thumbnail": false,
     "image": false,
     "description": "",
-    "builder": "Multiple builders"
+    "builder": ["Multiple builders"]
   }
 ]

@@ -35,5 +35,5 @@ A url to the location image. A larger image used in the info panel for a locatio
 ```String```
 A description of the location used for the info panel.
 ## builder
-```String```
-The username of the builder(s). In cases where the builder is unknown enter "Unknown". In cases where the number of builders exceeds reasonable length, enter "Multiple Builders".
+```Array```
+The username of the builder(s). In cases where the builder is unknown enter "Unknown".
